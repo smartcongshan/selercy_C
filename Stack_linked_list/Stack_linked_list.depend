@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446667744 source:f:\cÁ·Ï°\stack_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1463546256 source:f:\cÁ·Ï°\stack_linked_list\stack.c
+	"Stack.h"
+	<stdio.h>
+
+1463541707 f:\cÁ·Ï°\stack_linked_list\stack.h
+
