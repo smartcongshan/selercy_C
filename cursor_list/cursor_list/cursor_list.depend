@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462882375 source:f:\c¡∑œ∞\cursor_list\cursor_list\cursor.c
+	"cursor.h"
+
+1462882407 f:\c¡∑œ∞\cursor_list\cursor_list\cursor.h
+	<stdio.h>
+	<stdlib.h>
+
