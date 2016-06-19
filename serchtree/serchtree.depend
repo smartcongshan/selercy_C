@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1466255309 source:f:\c¡∑œ∞\serchtree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"serchtree.h"
+
+1466255323 f:\c¡∑œ∞\serchtree\serchtree.h
+
+1466255365 source:f:\c¡∑œ∞\serchtree\serchtree.c
+	"serchtree.h"
+	<stdio.h>
+	<stdlib.h>
+
