@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1465879585 source:f:\c¡∑œ∞\shuzustack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1465879233 f:\c¡∑œ∞\shuzustack\stack.h
+
