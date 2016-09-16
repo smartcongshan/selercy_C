@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1472710368 source:f:\c¡∑œ∞\hash_\hash_.c
+	"hash_.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1472710152 f:\c¡∑œ∞\hash_\hash_.h
+
+1472709539 source:f:\c¡∑œ∞\hash_\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hash_.h"
+

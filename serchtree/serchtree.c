@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
+
 /* 使树变为空树，也可以用来创建树 */
 SerchTree MakeEmpty(SerchTree T)
 {
@@ -71,22 +73,6 @@ SerchTree Insert(ElementType x,SerchTree T)
 
     return T;
 }
-/* 查找最小的数 */
-Position FndMin(SerchTree T)
-{
-    if(T == NULL)
-    {
-        printf("This is a empty tree!\n");
-        return NULL;
-    }
-    else
-    if(T->left)
-        T->left = FndMin(T->left);
-    else
-    if(T->left == NULL)
-        return T;
-    else{}
-}
 /* 删除一个数 */
 SerchTree Delete(ElementType x,SerchTree T)
 {
@@ -105,7 +91,7 @@ SerchTree Delete(ElementType x,SerchTree T)
     else
     if(T->left && T->right)//x = T->Element
     {
-        TmpCell = FndMin(T->right);
+        TmpCell = FindMin(T->right);
         T->Element = TmpCell->Element;
         T->right = Delete(T->Element,T->right);
     }

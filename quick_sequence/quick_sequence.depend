@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1464844954 source:f:\c¡∑œ∞\quick_sequence\main.c
+	<stdio.h>
+	<stdlib.h>
+	"quick_sequence.h"
+
+1464844349 f:\c¡∑œ∞\quick_sequence\quick_sequence.h
+
+1464844675 source:f:\c¡∑œ∞\quick_sequence\quick_sequence.c
+	"quick_sequence.h"
+
