@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1472384506 source:f:\c¡∑œ∞\hash\hashsep.c
+	"HashSep.h"
+	<stdio.h>
+	<stdlib.h>
+
+1472383429 f:\c¡∑œ∞\hash\hashsep.h
+
+1472384542 source:f:\c¡∑œ∞\hash\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HashSep.h"
+
